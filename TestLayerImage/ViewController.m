@@ -36,13 +36,7 @@
     [super viewDidLoad];
     
     
-    ///测试
-    
-    //在测试一下
-    
-    ///测试
-    
-    //在测试一下
+    //hahahahah
     
     
     UIImage *image = [UIImage imageNamed:@"1.jpg"];
