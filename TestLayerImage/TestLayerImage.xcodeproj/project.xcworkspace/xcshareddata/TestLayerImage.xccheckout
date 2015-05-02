@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>626FD9F7-E00C-4DB7-8AC9-EDCD2F27C210</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestLayerImage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1282FAAF29F659F2666202D5C082011CAF34B1D8</key>
+		<string>https://github.com/lv888ccc/CCHelper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestLayerImage/TestLayerImage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1282FAAF29F659F2666202D5C082011CAF34B1D8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lv888ccc/CCHelper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1282FAAF29F659F2666202D5C082011CAF34B1D8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1282FAAF29F659F2666202D5C082011CAF34B1D8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CCHelper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
