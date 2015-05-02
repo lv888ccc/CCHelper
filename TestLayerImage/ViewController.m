@@ -40,6 +40,11 @@
     
     //在测试一下
     
+    ///测试
+    
+    //在测试一下
+    
+    
     UIImage *image = [UIImage imageNamed:@"1.jpg"];
     
     imgScrollView = [[UIScrollView alloc] initWithFrame:CGRectMake(0, 0, 320, 480)];
